@@ -125,7 +125,7 @@ section.main [play]{
     width: 45px;
     height: 45px;
     cursor: pointer;
-    background-color: rgba(255, 0, 0, 0.3);
+    background-color: rgba(255, 0, 0);
     border-radius: 50%;
 }
 .res h1{
